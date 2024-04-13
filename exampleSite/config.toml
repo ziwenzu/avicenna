@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://ziwenzu.com"
 
 # set your your own ga token here.
 googleAnalytics = "UA/G-123123-12"
@@ -23,4 +23,4 @@ startLevel = 1
 
 [params]
 # it is used for the copy-right section of your page
-name = "YOUR_NAME"
+name = "Gary Zu"
